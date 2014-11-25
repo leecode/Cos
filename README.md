@@ -1,5 +1,6 @@
 # Cos
-just a "Copy of Slim", will add my own thing later.
+just a "Copy of [Slim](https://github.com/codeguy/Slim)", 
+With few comments added to help understand the awesome framework, will add my own thing later.
 # Getting Stared
 ## Features
 ##
