@@ -5,7 +5,6 @@ require_once 'Cos/Cos.php';
 \Cos\Cos::registerAutoloader();
 
 $className = 'Cos\http\Request';
-//Cos::autoload($className);
 $app = new \Cos\Cos();
 
 $app->get('/shits', function() use ($app) {
